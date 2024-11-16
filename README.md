@@ -37,10 +37,16 @@ used.
 
 #### Synthesis RTL Schematic :
 
+![image](https://github.com/user-attachments/assets/6680c64b-371f-4789-abbf-6e7196d2e2ac)
+
 #### Area report:
+
+![image](https://github.com/user-attachments/assets/8b85aeb6-ae76-44b0-9d97-99feecdae3af)
 
 #### Power Report:
 
-#### Result: 
+![image](https://github.com/user-attachments/assets/4d83ae4d-de7d-4aac-b37d-ecf4b124aacd)
+
+## Result: 
 
 The generic netlist of 32 bit ALU  has been created, and area, power reports have been tabulated and generated using Genus.
